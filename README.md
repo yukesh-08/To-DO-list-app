@@ -22,3 +22,11 @@ python to-do-list.py
 #### 🔹 Add database storage (SQLite)
 #### 🔹 Implement a due date feature
 #### 🔹 Improve UI with custom styling
+
+____________________________________________________________________________________
+
+## Project Demo
+![image](https://github.com/user-attachments/assets/fde6746f-57d4-4745-b8fd-49ecb2258672)
+![image](https://github.com/user-attachments/assets/e65dbd6f-24cd-4788-ba6c-0d90b909c1bc)
+![image](https://github.com/user-attachments/assets/a7b534e3-0bdb-41bf-81d1-ec9cbed44b9c)
+![image](https://github.com/user-attachments/assets/034062ac-b15b-47c8-badb-17c8c18246df)
