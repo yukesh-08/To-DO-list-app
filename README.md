@@ -15,7 +15,7 @@
 git clone https://github.com/yourusername/todo-list-tkinter.git
 cd todo-list-tkinter
 ### 2. Run the app:
-python to-do_list.py
+python to-do-list.py
 ### 3. Start adding your tasks! 🎯
 
 ## **Future Enhancements**
